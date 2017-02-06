@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
+# 联系方式
+- 手机：13256580605
+- Email：1991996543@qq.com
+- QQ：1991996543
 
-You can use the [editor on GitHub](https://github.com/EnzoLiuCN/EnzoliuCN.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 个人信息
 
-### Markdown
+ - 刘哲/男/1996 
+ - 中专/临沂职业学院 
+ - 工作年限：1年
+ - Github：http://github.com/EnzoLiuCN
+ - 期望职位：PHP程序员
+ - 期望薪资：税前月薪7k~8k，特别喜欢的公司可例外
+ - 期望城市：北京
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+# 工作经历
+## 临沂市新商网络技术有限公司 （ 2015年6月 ~ 2016年6月 ）
+### 网络安全工程师
+岗位职责
 
-# Header 1
-## Header 2
-### Header 3
+- 负责 公司内部办公网络的安全建设及巡查，严防APT攻击
+- 负责 母程序的代码审计(白盒测试)，其中挖掘高危漏洞13个、中危漏洞5个
+- 负责 灾备系统的架设与维护(RAID10与第三方大型灾备系统)
+- 负责 Iptables及安全狗服云防火墙的线上部署及监控
+- 负责 线上异常日志的审查、追踪、记录
+- 负责 线上产品的CDN新增与维护(CloudFlare/incapsula/阿里云CDN)
+- 参与 web安全开发制度的制定与实施
+- 参与 抗DDOS攻击方案的制定与实施
 
-- Bulleted
-- List
+附：长期活跃于**WooYun**漏洞平台及**360补天**漏洞平台，及时获取第一手的安全情报并进行对应的防御。
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### 运维工程师
+- 负责 公司内部服务器的定期检查与维护 (10台+)
+- 负责 保证线上服务器7*24小时可用性（CentOS6.x 100台+）
+- 负责 生产环境部署(LNMP或LAMP)
+- 参与 zabbix系统的建设及服务器可用性监控
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# 技能清单
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EnzoLiuCN/EnzoliuCN.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+以下均为我熟练使用的技能
 
-### Support or Contact
+- Web开发：Html/Css/Javascript/PHP
+- Web框架：Laravel
+- 前端库：jQuery
+- 模板引擎：Smarty/Blade
+- 数据库相关：MySQL/MsSQL/PDO
+- 版本管理和自动化部署工具：Svn/Git/Composer
+- 云和开放平台：SAE/AWS/微博开放平台
+- 其他：熟练掌握MVC设计模式和ajax技术，了解OOP编程思想
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 在校情况及所获荣誉
+- 优秀班长/团支书
+- 临沂职业学院计算机协会创始人
+- 山东省三好学生
+- 临沂职业学院计算机技能大赛第一名
+- 《挑战杯 - 彩虹人生》山东省三等奖
+- 《挑战杯 - 彩虹人生》全国二等奖（作品：基于C/S体系架构的学生管理系统）
+- 工信部和信息化部专项技术认证《云计算架构师》
+
+
+---
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
